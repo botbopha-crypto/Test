@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Sample illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="180" cy="150" r="70" fill="#facc15" opacity="0.9"/>
+  <circle cx="610" cy="120" r="50" fill="#fef3c7" opacity="0.8"/>
+  <rect x="120" y="280" width="560" height="120" rx="18" fill="#0f172a" opacity="0.35"/>
+  <text x="400" y="235" text-anchor="middle" font-size="54" font-family="Arial, sans-serif" fill="white" font-weight="700">Hello</text>
+  <text x="400" y="340" text-anchor="middle" font-size="32" font-family="Arial, sans-serif" fill="#e2e8f0">Welcome to my page</text>
+</svg>
